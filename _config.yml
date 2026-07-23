@@ -1,0 +1,22 @@
+title: "APEC Workshop on Examining Measures that Affect Digital Trade in Services"
+description: >
+  Collaborating to Advance Digital Services Trade Across the Asia-Pacific
+
+baseurl: "/digital-trade-in-services-workshop"
+url: "https://usapecrise.github.io"
+
+markdown: kramdown
+
+logo: "/css/2016_style/img/icon-large.png"
+
+social: []
+
+google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: ['_2016_pages', '_2017_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: pretty
